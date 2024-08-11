@@ -34,7 +34,7 @@
 
 ### 4. Link Your Profile to the Home Page
 - Instructions to add a link to their profile on the `index.html` page.
-1. copy the this line [<li><a href="/profiles/saeeda.html">Example Profile</a></li>]
+1. copy the line in index where commented
 2. paste it under the line and add the name of your html 
 
 ### 5. Commit Your Changes
