@@ -2,7 +2,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #fafafa;
+    background-color: white;
     color: #333;
 }
 
@@ -64,6 +64,8 @@ main {
     font-size: 2em;
     margin-bottom: 20px;
     text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 #profile-list {
