@@ -50,8 +50,8 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #bb86fc;
-    color: #6200ea;
+    background-color: hwb(267 53% 1%);
+    color: white;
 }
 
 main {
@@ -78,7 +78,7 @@ main {
 
 #profile-list a {
     text-decoration: none;
-    color: #6200ea;
+    color: #9a5cf1;
     font-size: 1.5em;
     background-color: #e8eaf6;
     padding: 10px 20px;
